@@ -1,0 +1,119 @@
+URLCrazy Domain Report
+Domain    : facebook.com
+Keyboard  : qwerty
+At        : 2012-07-18 01:13:24 -0400
+
+# Please wait. 109 hostnames to process
+
+Typo Type                     Typo             Pop      DNS-A            CC-A              DNS-MX                       Extn  
+------------------------------------------------------------------------------------------------------------------------------
+Character Omission            facbook.com      241000   69.171.224.37    US,UNITED STATES                               com   
+Character Omission            facebok.com      219000   66.220.149.11    US,UNITED STATES                               com   
+Character Omission            faceboo.com      36500    69.171.229.11    US,UNITED STATES                               com   
+Character Omission            facebook.cm      45300    85.25.146.60     DE,GERMANY                                     cm    
+Character Omission            faceook.com      5330     63.156.206.48    US,UNITED STATES                               com   
+Character Omission            faebook.com      94700                     ?                                              com   
+Character Omission            fcebook.com      19900                     ?                                              com   
+Character Repeat              faacebook.com    31600    69.171.242.11    US,UNITED STATES                               com   
+Character Repeat              faccebook.com    9570                      ?                                              com   
+Character Repeat              facebbook.com    10600                     ?                                              com   
+Character Repeat              facebookk.com    1240     127.0.0.1        ZZ,RESERVED       nullmx.domainmanager.com     com   
+Character Repeat              faceboook.com    133000                    ?                                              com   
+Character Repeat              faceebook.com    3490                      ?                                              com   
+Character Repeat              ffacebook.com    27500                     ?                                              com   
+Character Swap                afcebook.com     24400    63.156.206.48    US,UNITED STATES                               com   
+Character Swap                facbeook.com     14500    63.156.206.48    US,UNITED STATES                               com   
+Character Swap                faceboko.com     16800                     ?                                              com   
+Character Swap                faceobok.com     26100    69.171.229.11    US,UNITED STATES                               com   
+Character Swap                faecbook.com     195000   204.236.239.5    US,UNITED STATES                               com   
+Character Swap                fcaebook.com     31200    66.220.158.11    US,UNITED STATES                               com   
+Character Replacement         dacebook.com     11800                     ?                                              com   
+Character Replacement         facebiok.com     2050     63.156.206.48    US,UNITED STATES                               com   
+Character Replacement         faceboik.com     2220     63.156.206.48    US,UNITED STATES                               com   
+Character Replacement         facebooj.com     5640                      ?                                              com   
+Character Replacement         facebool.com     157000                    ?                                              com   
+Character Replacement         facebopk.com     12900    63.156.206.48    US,UNITED STATES                               com   
+Character Replacement         facebpok.com     540      63.156.206.48    US,UNITED STATES                               com   
+Character Replacement         facenook.com     23000    204.236.239.5    US,UNITED STATES                               com   
+Character Replacement         facevook.com     23900    204.236.239.5    US,UNITED STATES                               com   
+Character Replacement         facrbook.com     5940                      ?                                              com   
+Character Replacement         facwbook.com     84800    204.13.162.123   US,UNITED STATES  mx.fakemx.net                com   
+Character Replacement         favebook.com     7110                      ?                                              com   
+Character Replacement         faxebook.com     2370                      ?                                              com   
+Character Replacement         fscebook.com     10400                     ?                                              com   
+Character Replacement         gacebook.com     3870                      ?                                              com   
+Double Character Replacement  facebiik.com     1100     64.202.189.170   US,UNITED STATES  mailstore1.secureserver.net  com   
+Double Character Replacement  facebppk.com     619      64.202.189.170   US,UNITED STATES  mailstore1.secureserver.net  com   
+Character Insertion           facebnook.com    661      64.202.189.170   US,UNITED STATES  mailstore1.secureserver.net  com   
+Character Insertion           faceboiok.com    9470     63.251.133.40    US,UNITED STATES  localhost.localhost.com      com   
+Character Insertion           facebooik.com    27300    208.94.147.150   US,UNITED STATES  domain.not.configured        com   
+Character Insertion           facebookj.com    7530     64.202.189.170   US,UNITED STATES  smtp.secureserver.net        com   
+Character Insertion           facebookl.com    13000    127.0.0.1        ZZ,RESERVED       nullmx.domainmanager.com     com   
+Character Insertion           faceboopk.com    13700    199.59.242.249   CN,CHINA                                       com   
+Character Insertion           facebopok.com    674      199.59.242.249   CN,CHINA                                       com   
+Character Insertion           facebvook.com    991      63.156.206.48    US,UNITED STATES                               com   
+Character Insertion           facerbook.com    1960                      ?                                              com   
+Character Insertion           facewbook.com    34800    204.13.162.123   US,UNITED STATES  mx.fakemx.net                com   
+Character Insertion           facvebook.com    20200                     ?                                              com   
+Character Insertion           facxebook.com    1160                      ?                                              com   
+Character Insertion           fascebook.com    7230     204.13.162.123   US,UNITED STATES  mx.fakemx.net                com   
+Character Insertion           fdacebook.com    1390     199.59.242.249   CN,CHINA                                       com   
+Character Insertion           fgacebook.com    482      208.94.147.150   US,UNITED STATES  domain.not.configured        com   
+Missing Dot                   facebookcom.com  18800    66.220.158.11    US,UNITED STATES                               com   
+Missing Dot                   wwwfacebook.com  116000                    ?                                              com   
+Singular or Pluralise         facebooks.com    93200    69.171.242.11    US,UNITED STATES                               com   
+Vowel Swap                    facabook.com     44300    208.87.149.250   US,UNITED STATES                               com   
+Vowel Swap                    facibook.com     1380     69.43.160.178    US,UNITED STATES                               com   
+Vowel Swap                    facobook.com     6450     208.87.149.250   US,UNITED STATES                               com   
+Vowel Swap                    facubook.com     3670     199.59.242.249   CN,CHINA                                       com   
+Vowel Swap                    fecebook.com     98900    63.251.133.40    US,UNITED STATES  localhost.localhost.com      com   
+Vowel Swap                    ficebook.com     1390     141.8.224.25     CH,SWITZERLAND                                 com   
+Vowel Swap                    focebook.com     923      202.75.55.149    MY,MALAYSIA       mail.focebook.com            com   
+Vowel Swap                    fucebook.com     972      69.170.135.92    US,UNITED STATES                               com   
+Bit Flipping                  bacebook.com     3990     184.154.126.182  US,UNITED STATES                               com   
+Bit Flipping                  faaebook.com     4940     174.37.175.247   US,UNITED STATES  faaebook.com                 com   
+Bit Flipping                  fabebook.com     7060     208.87.149.250   US,UNITED STATES                               com   
+Bit Flipping                  facdbook.com     2410                      ?                                              com   
+Bit Flipping                  facebgok.com     264      208.94.147.150   US,UNITED STATES  domain.not.configured        com   
+Bit Flipping                  facebkok.com     10200    63.156.206.48    US,UNITED STATES                               com   
+Bit Flipping                  facebmok.com     458      204.13.162.123   US,UNITED STATES  mx.fakemx.net                com   
+Bit Flipping                  facebnok.com     5060                      ?                                              com   
+Bit Flipping                  facebogk.com     269      204.13.162.123   US,UNITED STATES  mx.fakemx.net                com   
+Bit Flipping                  facebokk.com     45800                     ?                                              com   
+Bit Flipping                  facebomk.com     2140     204.13.162.123   US,UNITED STATES  mx.fakemx.net                com   
+Bit Flipping                  facebonk.com     3040                      ?                                              com   
+Bit Flipping                  facebooc.com     275000                    ?                                              com   
+Bit Flipping                  facebooi.com     19500                     ?                                              com   
+Bit Flipping                  facebooo.com     14300    199.59.242.249   CN,CHINA                                       com   
+Bit Flipping                  facecook.com     9820     63.156.206.48    US,UNITED STATES                               com   
+Bit Flipping                  facefook.com     42800    98.124.199.1     US,UNITED STATES                               com   
+Bit Flipping                  facejook.com     1960     81.27.32.130     NO,NORWAY         mx.webhuset.no               com   
+Bit Flipping                  facerook.com     354      75.126.102.246   US,UNITED STATES                               com   
+Bit Flipping                  facgbook.com     1380     199.59.242.249   CN,CHINA                                       com   
+Bit Flipping                  facmbook.com     242      199.59.242.249   CN,CHINA                                       com   
+Bit Flipping                  fagebook.com     433000   199.59.242.249   CN,CHINA                                       com   
+Bit Flipping                  fakebook.com     5530     98.131.4.39      US,UNITED STATES  mail301.ixwebhosting.com     com   
+Bit Flipping                  fasebook.com     318000                    ?                                              com   
+Bit Flipping                  fccebook.com     494      199.59.242.249   CN,CHINA                                       com   
+Bit Flipping                  fqcebook.com     1970                      ?                                              com   
+Bit Flipping                  nacebook.com     8510     64.202.189.170   US,UNITED STATES  smtp.secureserver.net        com   
+Bit Flipping                  vacebook.com     533      199.59.241.250   CN,CHINA                                       com   
+Homoglyphs                    faceb00k.com     72500    127.0.0.1        ZZ,RESERVED       nullmx.domainmanager.com     com   
+Homoglyphs                    faceb0ok.com     3600     199.59.242.249   CN,CHINA                                       com   
+Homoglyphs                    facebo0k.com     144000   199.59.242.249   CN,CHINA                                       com   
+Wrong TLD                     facebook.ca      197000   66.220.149.11    US,UNITED STATES                               ca    
+Wrong TLD                     facebook.ch      16000                     ?                                              ch    
+Wrong TLD                     facebook.de      4750000  66.220.149.11    US,UNITED STATES                               de    
+Wrong TLD                     facebook.edu     42300                     ?                                              edu   
+Wrong TLD                     facebook.es      4110000  69.171.242.11    US,UNITED STATES                               es    
+Wrong TLD                     facebook.fr      870000   66.220.158.11    US,UNITED STATES                               fr    
+Wrong TLD                     facebook.it      7610000  69.171.224.37    US,UNITED STATES                               it    
+Wrong TLD                     facebook.jp      405000   69.171.242.11    US,UNITED STATES                               jp    
+Wrong TLD                     facebook.net     3180000                   ?                                              net   
+Wrong TLD                     facebook.nl      53700    69.171.229.11    US,UNITED STATES                               nl    
+Wrong TLD                     facebook.no      5690000  69.171.229.11    US,UNITED STATES                               no    
+Wrong TLD                     facebook.org     489000   69.171.229.11    US,UNITED STATES                               org   
+Wrong TLD                     facebook.ru      224000                    ?                 mailhub.ftc.ru               ru    
+Wrong TLD                     facebook.se      3970000  66.220.158.11    US,UNITED STATES                               se    
+Wrong TLD                     facebook.us      1820000  69.171.242.11    US,UNITED STATES                               us    
+
